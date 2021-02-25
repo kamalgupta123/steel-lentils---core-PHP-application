@@ -1,0 +1,285 @@
+[30-Jul-2020 05:11:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'blinkcoders_steel_lentils'@'localhost' (using password: YES) in /home/blinkcoders/public_html/steel-lentils/api-server/api_site_config.php on line 17
+[30-Jul-2020 05:16:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'blinkcoders_steel_lentils'@'localhost' (using password: YES) in /home/blinkcoders/public_html/steel-lentils/api-server/api_site_config.php on line 17
+[30-Jul-2020 05:39:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'blinkcoders_steel_lentils'@'localhost' (using password: YES) in /home/blinkcoders/public_html/steel-lentils/api-server/api_site_config.php on line 17
+[31-Jul-2020 06:26:15 UTC] PHP Warning:  Use of undefined constant CUSTOM_MYSQL_QRY_ERR - assumed 'CUSTOM_MYSQL_QRY_ERR' (this will throw an Error in a future version of PHP) in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 69
+[31-Jul-2020 06:26:45 UTC] PHP Warning:  Use of undefined constant CUSTOM_MYSQL_QRY_ERR - assumed 'CUSTOM_MYSQL_QRY_ERR' (this will throw an Error in a future version of PHP) in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 69
+[06-Aug-2020 20:43:23 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:43:31 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:43:36 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:43:37 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:43:37 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:43:37 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:43:38 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:43:38 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:43:38 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:43:38 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:43:51 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:43:52 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:44:42 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:44:43 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:44:44 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:44:45 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:44:45 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:44:55 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:45:10 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:46:25 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 20:52:02 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::GetSectionDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 525
+[06-Aug-2020 21:17:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php:79
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Admin->ListItems(Array)
+#1 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 79
+[06-Aug-2020 21:17:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php:79
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Admin->ListItems(Array)
+#1 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 79
+[07-Aug-2020 21:33:02 Australia/Sydney] PHP Notice:  Undefined variable: condition in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 469
+[07-Aug-2020 21:34:10 Australia/Sydney] PHP Notice:  Undefined variable: condition in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 469
+[11-Aug-2020 17:48:52 Australia/Sydney] PHP Notice:  Undefined index: is_enabled in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 296
+[11-Aug-2020 17:49:25 Australia/Sydney] PHP Notice:  Undefined index: is_enabled in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 296
+[12-Aug-2020 15:45:43 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 74
+[12-Aug-2020 15:46:24 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 74
+[12-Aug-2020 15:47:35 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 74
+[12-Aug-2020 15:50:32 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 74
+[12-Aug-2020 15:54:56 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 74
+[12-Aug-2020 16:46:05 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 72
+[12-Aug-2020 16:52:10 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 16:52:17 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 16:52:21 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 16:52:35 Australia/Sydney] PHP Notice:  Undefined index: suggested_stocked_length9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 122
+[12-Aug-2020 16:52:35 Australia/Sydney] PHP Notice:  Undefined index: states9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 133
+[12-Aug-2020 16:52:35 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 135
+[12-Aug-2020 17:00:41 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 17:00:54 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 17:00:56 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 17:09:26 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 17:11:33 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 17:17:51 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 17:19:10 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 17:21:44 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 17:21:50 Australia/Sydney] PHP Notice:  Undefined index: suggested_stocked_length9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 122
+[12-Aug-2020 17:21:50 Australia/Sydney] PHP Notice:  Undefined index: states9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 133
+[12-Aug-2020 17:21:50 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 135
+[12-Aug-2020 17:22:17 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 17:55:12 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 22:18:32 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 23:27:22 Australia/Sydney] PHP Fatal error:  Cannot use [] for reading in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 479
+[12-Aug-2020 23:42:18 Australia/Sydney] PHP Notice:  Undefined index: suggested_stocked_length9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 122
+[12-Aug-2020 23:42:40 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 23:43:02 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 23:44:45 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 23:48:04 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 23:54:47 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 23:56:11 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[12-Aug-2020 23:56:27 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[13-Aug-2020 03:46:55 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[13-Aug-2020 04:10:16 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[13-Aug-2020 04:10:46 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[13-Aug-2020 04:11:25 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[13-Aug-2020 04:11:56 Australia/Sydney] PHP Notice:  Undefined index: suggested_stocked_length9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 122
+[13-Aug-2020 04:12:00 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[13-Aug-2020 04:13:04 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[13-Aug-2020 04:14:07 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[13-Aug-2020 04:14:58 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[13-Aug-2020 17:32:06 Australia/Sydney] PHP Notice:  Undefined index: suggested_stocked_length9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 122
+[13-Aug-2020 17:32:06 Australia/Sydney] PHP Notice:  Undefined index: states9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 133
+[13-Aug-2020 17:32:06 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 135
+[13-Aug-2020 17:32:29 Australia/Sydney] PHP Notice:  Undefined index: suggested_stocked_length9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 122
+[13-Aug-2020 17:32:29 Australia/Sydney] PHP Notice:  Undefined index: states9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 133
+[13-Aug-2020 17:32:29 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 135
+[13-Aug-2020 17:48:04 Australia/Sydney] PHP Notice:  Undefined index: suggested_stocked_length9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 122
+[13-Aug-2020 17:48:04 Australia/Sydney] PHP Notice:  Undefined index: states9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 133
+[13-Aug-2020 17:48:04 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 135
+[13-Aug-2020 20:49:33 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[13-Aug-2020 20:49:35 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 176
+[13-Aug-2020 23:40:16 Australia/Sydney] PHP Notice:  Undefined index: edit in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 142
+[13-Aug-2020 23:42:12 Australia/Sydney] PHP Notice:  Undefined index: edit in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 142
+[13-Aug-2020 23:44:39 Australia/Sydney] PHP Notice:  Undefined index: edit in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 142
+[13-Aug-2020 23:45:38 Australia/Sydney] PHP Notice:  Undefined index: select-operators9 in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 156
+[14-Aug-2020 15:44:13 Australia/Sydney] PHP Notice:  Undefined index: suggested_stocked_length in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 98
+[14-Aug-2020 15:44:13 Australia/Sydney] PHP Notice:  Undefined index: states in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 102
+[14-Aug-2020 15:44:13 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 104
+[14-Aug-2020 16:06:15 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 216
+[14-Aug-2020 16:08:32 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 216
+[14-Aug-2020 16:09:28 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 216
+[14-Aug-2020 16:10:46 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 216
+[14-Aug-2020 16:10:46 Australia/Sydney] PHP Notice:  Undefined index: select-operators in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 98
+[14-Aug-2020 16:10:46 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 105
+[14-Aug-2020 16:12:28 Australia/Sydney] PHP Notice:  Undefined index: suggested_stocked_length in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 98
+[14-Aug-2020 16:12:28 Australia/Sydney] PHP Notice:  Undefined index: select-operators in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 98
+[14-Aug-2020 16:12:28 Australia/Sydney] PHP Notice:  Undefined index: states in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 102
+[14-Aug-2020 16:12:28 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 104
+[14-Aug-2020 16:14:50 Australia/Sydney] PHP Notice:  Undefined index: select-operators in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 98
+[14-Aug-2020 16:14:50 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 105
+[14-Aug-2020 17:31:47 Australia/Sydney] PHP Fatal error:  Uncaught Exception: alertText is not defined for custom regex phone called for field phone in /home/blinkcoders/public_html/steel-lentils/api-server/libs/ps-validation-engine/PSValidationEngine.php:103
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/libs/ps-validation-engine/PSValidationEngine.php(26): PSValidationEngine->custom('phone', 'phone number is...', 'custom[phone]')
+#1 /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php(59): PSValidationEngine->validate()
+#2 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Customers->SignUp(Array)
+#3 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/libs/ps-validation-engine/PSValidationEngine.php on line 103
+[14-Aug-2020 17:32:01 Australia/Sydney] PHP Fatal error:  Uncaught Exception: alertText is not defined for custom regex phone called for field phone in /home/blinkcoders/public_html/steel-lentils/api-server/libs/ps-validation-engine/PSValidationEngine.php:103
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/libs/ps-validation-engine/PSValidationEngine.php(26): PSValidationEngine->custom('phone', 'phone number is...', 'custom[phone]')
+#1 /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php(59): PSValidationEngine->validate()
+#2 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Customers->SignUp(Array)
+#3 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/libs/ps-validation-engine/PSValidationEngine.php on line 103
+[14-Aug-2020 17:35:33 Australia/Sydney] PHP Parse error:  syntax error, unexpected '=' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 76
+[14-Aug-2020 17:36:22 Australia/Sydney] PHP Fatal error:  Uncaught Exception: alertText is not defined for custom regex phone called for field phone in /home/blinkcoders/public_html/steel-lentils/api-server/libs/ps-validation-engine/PSValidationEngine.php:103
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/libs/ps-validation-engine/PSValidationEngine.php(26): PSValidationEngine->custom('phone', 'phone number is...', 'custom[phone]')
+#1 /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php(59): PSValidationEngine->validate()
+#2 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Customers->SignUp(Array)
+#3 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/libs/ps-validation-engine/PSValidationEngine.php on line 103
+[14-Aug-2020 17:51:13 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 840
+[14-Aug-2020 17:54:59 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 840
+[14-Aug-2020 17:55:25 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 840
+[14-Aug-2020 19:44:12 Australia/Sydney] PHP Notice:  Undefined index: select-operators in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 98
+[14-Aug-2020 19:44:13 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 105
+[14-Aug-2020 19:44:35 Australia/Sydney] PHP Notice:  Undefined index: select-operators in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 98
+[14-Aug-2020 19:44:35 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 105
+[14-Aug-2020 19:52:16 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 105
+[14-Aug-2020 19:52:39 Australia/Sydney] PHP Notice:  Undefined variable: insert_id in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 105
+[14-Aug-2020 20:26:02 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 850
+[17-Aug-2020 17:09:27 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 353
+[17-Aug-2020 17:09:40 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 353
+[17-Aug-2020 17:31:21 Australia/Sydney] PHP Notice:  Undefined index: $is_enabled in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 612
+[17-Aug-2020 17:42:15 Australia/Sydney] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php:187
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Admin->SaveProductRecommendation1(Array)
+#1 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 187
+[17-Aug-2020 17:43:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php:187
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Admin->SaveProductRecommendation1(Array)
+#1 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 187
+[17-Aug-2020 17:43:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php:188
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Admin->SaveProductRecommendation1(Array)
+#1 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 188
+[17-Aug-2020 17:44:31 Australia/Sydney] PHP Notice:  Undefined variable: inputdata in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 194
+[17-Aug-2020 17:51:39 Australia/Sydney] PHP Notice:  Undefined variable: row in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 213
+[17-Aug-2020 17:52:08 Australia/Sydney] PHP Notice:  Undefined variable: row in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 213
+[17-Aug-2020 17:55:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php:193
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Admin->SaveProductRecommendation1(Array)
+#1 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 193
+[17-Aug-2020 17:56:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php:193
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Admin->SaveProductRecommendation1(Array)
+#1 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 193
+[17-Aug-2020 20:53:45 Australia/Sydney] PHP Notice:  Undefined variable: Encryption in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 225
+[17-Aug-2020 20:53:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php:225
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Customers->SignUp(Array)
+#1 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 225
+[17-Aug-2020 20:54:08 Australia/Sydney] PHP Notice:  Undefined variable: Encryption in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 225
+[17-Aug-2020 20:54:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php:225
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Customers->SignUp(Array)
+#1 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 225
+[17-Aug-2020 20:56:17 Australia/Sydney] PHP Warning:  include(/home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Encryption.php): failed to open stream: No such file or directory in /home/blinkcoders/public_html/steel-lentils/api-server/restful/autoload.php on line 6
+[17-Aug-2020 20:56:17 Australia/Sydney] PHP Warning:  include(): Failed opening '/home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Encryption.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/blinkcoders/public_html/steel-lentils/api-server/restful/autoload.php on line 6
+[17-Aug-2020 20:56:17 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Encryption' not found in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php:225
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Customers->SignUp(Array)
+#1 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 225
+[17-Aug-2020 20:57:50 Australia/Sydney] PHP Warning:  Use of undefined constant SITE_URL - assumed 'SITE_URL' (this will throw an Error in a future version of PHP) in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 250
+[17-Aug-2020 20:57:50 Australia/Sydney] PHP Warning:  Use of undefined constant SITE_URL - assumed 'SITE_URL' (this will throw an Error in a future version of PHP) in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 250
+[17-Aug-2020 20:57:50 Australia/Sydney] PHP Warning:  include(/home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/PHPMailer.php): failed to open stream: No such file or directory in /home/blinkcoders/public_html/steel-lentils/api-server/restful/autoload.php on line 6
+[17-Aug-2020 20:57:50 Australia/Sydney] PHP Warning:  include(): Failed opening '/home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/blinkcoders/public_html/steel-lentils/api-server/restful/autoload.php on line 6
+[17-Aug-2020 20:57:50 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php:381
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php(251): p_mail('test13@test.in', 'Email Verificat...', 'Hello test13,<b...')
+#1 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Customers->SignUp(Array)
+#2 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php on line 381
+[17-Aug-2020 20:58:24 Australia/Sydney] PHP Notice:  Undefined variable: SITE_URL in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 250
+[17-Aug-2020 20:58:24 Australia/Sydney] PHP Notice:  Undefined variable: SITE_URL in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 250
+[17-Aug-2020 20:58:24 Australia/Sydney] PHP Warning:  include(/home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/PHPMailer.php): failed to open stream: No such file or directory in /home/blinkcoders/public_html/steel-lentils/api-server/restful/autoload.php on line 6
+[17-Aug-2020 20:58:24 Australia/Sydney] PHP Warning:  include(): Failed opening '/home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/blinkcoders/public_html/steel-lentils/api-server/restful/autoload.php on line 6
+[17-Aug-2020 20:58:24 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php:381
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php(251): p_mail('test13@test.in', 'Email Verificat...', 'Hello test13,<b...')
+#1 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Customers->SignUp(Array)
+#2 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php on line 381
+[17-Aug-2020 21:07:57 Australia/Sydney] PHP Warning:  include(/home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/PHPMailer.php): failed to open stream: No such file or directory in /home/blinkcoders/public_html/steel-lentils/api-server/restful/autoload.php on line 6
+[17-Aug-2020 21:07:57 Australia/Sydney] PHP Warning:  include(): Failed opening '/home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/blinkcoders/public_html/steel-lentils/api-server/restful/autoload.php on line 6
+[17-Aug-2020 21:07:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php:381
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php(251): p_mail('test13@test.in', 'Email Verificat...', 'Hello test13,<b...')
+#1 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Customers->SignUp(Array)
+#2 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php on line 381
+[17-Aug-2020 21:24:37 Australia/Sydney] PHP Notice:  Undefined index: token in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 87
+[17-Aug-2020 21:24:49 Australia/Sydney] PHP Notice:  Undefined index: token in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 87
+[18-Aug-2020 14:03:58 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:03:58 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:04:20 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:04:20 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:04:22 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:04:22 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:04:38 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:04:38 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:08:03 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:08:03 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:08:11 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:08:11 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:09:19 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:09:19 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:09:20 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:09:20 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:14:54 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:15:12 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 95
+[18-Aug-2020 14:15:29 Australia/Sydney] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php on line 123
+[18-Aug-2020 14:19:02 Australia/Sydney] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php on line 123
+[18-Aug-2020 14:19:14 Australia/Sydney] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php on line 123
+[18-Aug-2020 14:19:44 Australia/Sydney] PHP Notice:  Array to string conversion in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 122
+[18-Aug-2020 14:19:44 Australia/Sydney] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php on line 123
+[18-Aug-2020 14:20:03 Australia/Sydney] PHP Notice:  Array to string conversion in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 123
+[18-Aug-2020 14:20:03 Australia/Sydney] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php on line 123
+[18-Aug-2020 14:20:13 Australia/Sydney] PHP Notice:  Array to string conversion in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 123
+[18-Aug-2020 14:20:13 Australia/Sydney] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/blinkcoders/public_html/steel-lentils/api-server/api_common_functions.php on line 123
+[18-Aug-2020 16:06:40 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 386
+[18-Aug-2020 18:14:24 Australia/Sydney] PHP Notice:  Undefined index: password in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 44
+[18-Aug-2020 18:14:24 Australia/Sydney] PHP Notice:  Array to string conversion in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 44
+[18-Aug-2020 18:14:24 Australia/Sydney] PHP Notice:  Undefined variable: Array in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 44
+[18-Aug-2020 18:14:51 Australia/Sydney] PHP Notice:  Undefined index: password in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 44
+[18-Aug-2020 18:14:51 Australia/Sydney] PHP Notice:  Array to string conversion in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 44
+[18-Aug-2020 18:14:51 Australia/Sydney] PHP Notice:  Undefined variable: Array in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 44
+[18-Aug-2020 18:15:43 Australia/Sydney] PHP Notice:  Array to string conversion in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 44
+[18-Aug-2020 18:15:43 Australia/Sydney] PHP Notice:  Undefined variable: Array in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 44
+[18-Aug-2020 18:18:17 Australia/Sydney] PHP Notice:  Array to string conversion in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 44
+[18-Aug-2020 18:18:17 Australia/Sydney] PHP Notice:  Undefined variable: Array in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 44
+[18-Aug-2020 18:26:03 Australia/Sydney] PHP Notice:  Array to string conversion in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 45
+[18-Aug-2020 18:26:03 Australia/Sydney] PHP Notice:  Undefined variable: Array in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Customers.php on line 45
+[18-Aug-2020 20:18:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php:1253
+Stack trace:
+#0 /home/blinkcoders/public_html/steel-lentils/api-server/restful/request-handler.php(67): Admin->ListSections(Array)
+#1 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 1253
+[18-Aug-2020 20:45:54 Australia/Sydney] PHP Fatal error:  Cannot use [] for reading in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 737
+[18-Aug-2020 21:30:09 Australia/Sydney] PHP Notice:  Undefined variable: in_fields in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 881
+[18-Aug-2020 21:32:20 Australia/Sydney] PHP Notice:  Undefined variable: in_fields in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 881
+[19-Aug-2020 00:03:57 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::getAdminDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 48
+[19-Aug-2020 00:03:57 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::getAdminDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 48
+[19-Aug-2020 00:04:12 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::getAdminDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 48
+[19-Aug-2020 00:04:12 Australia/Sydney] PHP Fatal error:  Cannot redeclare Admin::getAdminDetails() in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 48
+[19-Aug-2020 17:14:46 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 1143
+[19-Aug-2020 17:15:38 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 1143
+[19-Aug-2020 17:16:13 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 1143
+[19-Aug-2020 17:16:18 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 1143
+[19-Aug-2020 17:16:43 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 1143
+[19-Aug-2020 23:19:28 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 1143
+[19-Aug-2020 23:21:06 Australia/Sydney] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/blinkcoders/public_html/steel-lentils/api-server/restful/classes/Admin.php on line 1143

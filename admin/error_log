@@ -1,0 +1,14 @@
+[31-Jul-2020 05:16:57 UTC] PHP Warning:  include_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/blinkcoders/public_html/steel-lentils/admin/index.php on line 3
+[31-Jul-2020 05:16:57 UTC] PHP Warning:  include_once(http://blinkcoders.com/steel-lentils/common-header.php): failed to open stream: no suitable wrapper could be found in /home/blinkcoders/public_html/steel-lentils/admin/index.php on line 3
+[31-Jul-2020 05:16:57 UTC] PHP Warning:  include_once(): Failed opening 'http://blinkcoders.com/steel-lentils/common-header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/blinkcoders/public_html/steel-lentils/admin/index.php on line 3
+[31-Jul-2020 05:17:22 UTC] PHP Warning:  include_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/blinkcoders/public_html/steel-lentils/admin/index.php on line 3
+[31-Jul-2020 05:17:22 UTC] PHP Warning:  include_once(http://blinkcoders.com/steel-lentils/common_header.php): failed to open stream: no suitable wrapper could be found in /home/blinkcoders/public_html/steel-lentils/admin/index.php on line 3
+[31-Jul-2020 05:17:22 UTC] PHP Warning:  include_once(): Failed opening 'http://blinkcoders.com/steel-lentils/common_header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/blinkcoders/public_html/steel-lentils/admin/index.php on line 3
+[18-Aug-2020 19:46:03 Australia/Sydney] PHP Notice:  Undefined index: sl_admin in /home/blinkcoders/public_html/steel-lentils/admin/profile.php on line 6
+[18-Aug-2020 19:46:03 Australia/Sydney] PHP Notice:  Undefined index: data in /home/blinkcoders/public_html/steel-lentils/admin/profile.php on line 8
+[18-Aug-2020 19:48:16 Australia/Sydney] PHP Notice:  Undefined index: data in /home/blinkcoders/public_html/steel-lentils/admin/profile.php on line 8
+[20-Aug-2020 15:43:14 Australia/Sydney] PHP Notice:  Undefined variable: Encryption in /home/blinkcoders/public_html/steel-lentils/admin/profile.php on line 17
+[20-Aug-2020 15:43:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/blinkcoders/public_html/steel-lentils/admin/profile.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/admin/profile.php on line 17

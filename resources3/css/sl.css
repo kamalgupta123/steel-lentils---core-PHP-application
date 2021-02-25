@@ -1,0 +1,150 @@
+.delivery-link:hover{
+    color:black;
+}
+.verify-login-box-body{
+    min-height:350px;
+}
+.front_login_form{
+    text-align:center;
+}
+.customer_links{
+    font-size: 12px;
+    margin-left: 10px;
+    color: #000;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+.customer_links a{
+    color:black;
+}
+/*.verify-div{*/
+/*    width: 300px;*/
+/*    margin: 0 auto;*/
+/*    text-align: center;*/
+/*    margin-top: 30px;*/
+/*    border: 1px solid #eee;*/
+/*    padding: 20px;*/
+/*}*/
+.login-title-background {
+    background-color: #29a6da;
+    color: white;
+}
+.login-title-background b{
+    color: white;
+}
+.login-form.login_wrap {
+    padding: 30px 50px;
+    border-radius: 2px;
+    font-size: 16px;
+    margin-top: 40px;
+    border: solid 2px #29a6da;
+	width:100%;
+}
+#adminloginform label{
+	color:black;
+}
+.login-form .btn {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 12px 15px;
+    border: 0px;
+    min-width: 150px !important;
+	background-color: #29a6da;
+    color: white;
+}
+.append_to{
+    margin-top:8px;
+}
+#add_postcode{
+    margin-top:8px;
+}
+div.uk-notification{
+   z-index:9999; 
+}
+.toggleWrapper input.mobileToggle {
+    opacity: 0;
+    position: absolute;
+}
+.toggleWrapper input.mobileToggle:checked + label:before {
+    background: #35bf64;
+    transition: width 0.2s cubic-bezier(0, 0, 0, 0.1);
+    border-color: #35bf64;
+}
+.toggleWrapper input.mobileToggle + label:before {
+    content: "";
+    position: absolute;
+    display: block;
+    transition: 0.2s cubic-bezier(0.24, 0, 0.5, 1);
+    height: 20px;
+    width: 35px;
+    top: 0;
+    left: 0;
+    border-radius: 30px;
+    border: 1px solid grey;
+}
+.toggleWrapper input.mobileToggle:checked + label:after {
+    left: 18px;
+    background: white;
+}
+.toggleWrapper input.mobileToggle + label:after {
+    content: "";
+    position: absolute;
+    display: block;
+    box-shadow: none;
+    transition: 0.35s cubic-bezier(0.54, 1.6, 0.5, 1);
+    background: #000;
+    height: 13px;
+    width: 13px;
+    top: 3px;
+    left: 4px;
+    border-radius: 60px;
+}
+input[type="checkbox"]:checked + label:after {
+    font-weight: bold;
+}
+.toggleWrapper label + span {
+    vertical-align: top;
+    margin-left: 25px;
+    font-weight: 400;
+}
+.cancel_btn_action{
+	float: right;
+    margin-right: 10px;
+}
+.required_star{
+	color:red;
+}
+.positionTop{
+    margin-top: 39px;
+}
+.select-operators{
+    padding-left:5px;
+}
+.modal-width{
+    width:1238px;
+}
+.modal-margin{
+    margin-left: 64px;
+    margin-top:60px;
+}   
+.toggle_div {
+	background-color: #fffffffc;
+	padding: 40px;
+	border-radius: 5px;
+	box-shadow: 0px 10px 66px rgba(255, 255, 255, 0.42);
+	max-width: 500px;
+    margin: 0 auto;
+}
+.table-margin{
+    overflow:hidden;
+    margin-bottom: 1rem !important;
+    margin-left: 1rem !important;
+}
+.pagination_counter.pagination_pageNumber{
+    margin-bottom: 1rem !important;
+}
+.delete-margin{
+    padding-top: 9px;
+    padding-bottom: 9px;
+}

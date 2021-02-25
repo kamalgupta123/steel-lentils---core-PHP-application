@@ -1,0 +1,73 @@
+[31-Jul-2020 11:36:17 UTC] PHP Warning:  file_get_contents(http://blinkcoders.com/steel-lentils/api-server/restful/request-handler.php): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+ in /home/blinkcoders/public_html/steel-lentils/common_functions.php on line 101
+[31-Jul-2020 11:36:26 UTC] PHP Warning:  file_get_contents(http://blinkcoders.com/steel-lentils/api-server/restful/request-handler.php): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+ in /home/blinkcoders/public_html/steel-lentils/common_functions.php on line 101
+[17-Aug-2020 21:32:47 Australia/Sydney] PHP Notice:  Undefined index: temp_email in /home/blinkcoders/public_html/steel-lentils/verify-email.php on line 24
+[17-Aug-2020 21:32:47 Australia/Sydney] PHP Notice:  Undefined index: email in /home/blinkcoders/public_html/steel-lentils/verify-email.php on line 35
+[17-Aug-2020 21:32:47 Australia/Sydney] PHP Notice:  Undefined index: temp_email in /home/blinkcoders/public_html/steel-lentils/verify-email.php on line 35
+[17-Aug-2020 21:34:47 Australia/Sydney] PHP Notice:  Undefined index: data in /home/blinkcoders/public_html/steel-lentils/verify-email.php on line 24
+[17-Aug-2020 21:34:47 Australia/Sydney] PHP Notice:  Undefined index: data in /home/blinkcoders/public_html/steel-lentils/verify-email.php on line 35
+[17-Aug-2020 21:34:47 Australia/Sydney] PHP Notice:  Undefined index: data in /home/blinkcoders/public_html/steel-lentils/verify-email.php on line 35
+[17-Aug-2020 21:35:16 Australia/Sydney] PHP Notice:  Undefined index: email_token in /home/blinkcoders/public_html/steel-lentils/verify-email.php on line 37
+[18-Aug-2020 14:03:58 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 41
+[18-Aug-2020 14:03:58 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 93
+[18-Aug-2020 14:04:20 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 41
+[18-Aug-2020 14:04:20 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 93
+[18-Aug-2020 14:04:22 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 41
+[18-Aug-2020 14:04:22 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 93
+[18-Aug-2020 14:04:38 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 41
+[18-Aug-2020 14:04:38 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 93
+[18-Aug-2020 14:08:03 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 41
+[18-Aug-2020 14:08:03 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 93
+[18-Aug-2020 14:08:11 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 41
+[18-Aug-2020 14:08:11 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 93
+[18-Aug-2020 14:09:19 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 41
+[18-Aug-2020 14:09:19 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 93
+[18-Aug-2020 14:09:20 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 41
+[18-Aug-2020 14:09:20 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/index.php on line 93
+[18-Aug-2020 14:36:59 Australia/Sydney] PHP Notice:  Undefined index: verification_token in /home/blinkcoders/public_html/steel-lentils/resetting_password.php on line 27
+[19-Aug-2020 02:10:57 Australia/Sydney] PHP Notice:  Undefined variable: Encryption in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 02:10:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/blinkcoders/public_html/steel-lentils/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 02:10:58 Australia/Sydney] PHP Notice:  Undefined variable: Encryption in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 02:10:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/blinkcoders/public_html/steel-lentils/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 02:27:35 Australia/Sydney] PHP Notice:  Undefined variable: Encryption in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 02:27:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/blinkcoders/public_html/steel-lentils/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 02:27:36 Australia/Sydney] PHP Notice:  Undefined variable: Encryption in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 02:27:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/blinkcoders/public_html/steel-lentils/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 02:28:52 Australia/Sydney] PHP Notice:  Undefined variable: Encryption in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 02:28:52 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/blinkcoders/public_html/steel-lentils/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 02:28:53 Australia/Sydney] PHP Notice:  Undefined variable: Encryption in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 02:28:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/blinkcoders/public_html/steel-lentils/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/index.php on line 91
+[19-Aug-2020 03:09:24 Australia/Sydney] PHP Notice:  Undefined index: quantity in /home/blinkcoders/public_html/steel-lentils/front-ajax.php on line 48
+[19-Aug-2020 17:44:11 Australia/Sydney] PHP Notice:  Undefined offset: 6 in /home/blinkcoders/public_html/steel-lentils/footer.php on line 36
+[19-Aug-2020 17:44:11 Australia/Sydney] PHP Notice:  Undefined offset: 5 in /home/blinkcoders/public_html/steel-lentils/footer.php on line 39
+[19-Aug-2020 17:44:11 Australia/Sydney] PHP Notice:  Undefined offset: 7 in /home/blinkcoders/public_html/steel-lentils/footer.php on line 42
+[19-Aug-2020 17:44:11 Australia/Sydney] PHP Notice:  Undefined offset: 8 in /home/blinkcoders/public_html/steel-lentils/footer.php on line 45
+[19-Aug-2020 17:44:11 Australia/Sydney] PHP Notice:  Undefined offset: 9 in /home/blinkcoders/public_html/steel-lentils/footer.php on line 48
+[19-Aug-2020 17:44:14 Australia/Sydney] PHP Notice:  Undefined offset: 6 in /home/blinkcoders/public_html/steel-lentils/footer.php on line 36
+[19-Aug-2020 17:44:14 Australia/Sydney] PHP Notice:  Undefined offset: 5 in /home/blinkcoders/public_html/steel-lentils/footer.php on line 39
+[19-Aug-2020 17:44:14 Australia/Sydney] PHP Notice:  Undefined offset: 7 in /home/blinkcoders/public_html/steel-lentils/footer.php on line 42
+[19-Aug-2020 17:44:14 Australia/Sydney] PHP Notice:  Undefined offset: 8 in /home/blinkcoders/public_html/steel-lentils/footer.php on line 45
+[19-Aug-2020 17:44:14 Australia/Sydney] PHP Notice:  Undefined offset: 9 in /home/blinkcoders/public_html/steel-lentils/footer.php on line 48
+[19-Aug-2020 18:46:23 Australia/Sydney] PHP Notice:  Undefined index: data in /home/blinkcoders/public_html/steel-lentils/header.php on line 26
+[19-Aug-2020 18:49:45 Australia/Sydney] PHP Warning:  file_get_contents(http://blinkcoders.com/steel-lentils/api-server/restful/request-handler.php): failed to open stream: HTTP request failed! in /home/blinkcoders/public_html/steel-lentils/common_functions.php on line 106
+[19-Aug-2020 19:44:51 Australia/Sydney] PHP Warning:  file_get_contents(http://blinkcoders.com/steel-lentils/api-server/restful/request-handler.php): failed to open stream: HTTP request failed! in /home/blinkcoders/public_html/steel-lentils/common_functions.php on line 106
+[19-Aug-2020 19:47:16 Australia/Sydney] PHP Warning:  file_get_contents(http://blinkcoders.com/steel-lentils/api-server/restful/request-handler.php): failed to open stream: HTTP request failed! in /home/blinkcoders/public_html/steel-lentils/common_functions.php on line 106

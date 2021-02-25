@@ -1,0 +1,5 @@
+[13-Aug-2020 21:23:05 Australia/Sydney] PHP Notice:  Undefined variable: Encryption in /home/blinkcoders/public_html/steel-lentils/admin/items/items-ajax.php on line 21
+[13-Aug-2020 21:23:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function decode() on null in /home/blinkcoders/public_html/steel-lentils/admin/items/items-ajax.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/admin/items/items-ajax.php on line 21

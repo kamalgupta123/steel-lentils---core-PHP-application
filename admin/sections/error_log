@@ -1,0 +1,25 @@
+[31-Jul-2020 05:51:33 UTC] PHP Warning:  include_once(/home/blinkcoders/public_html/steel-lentils/admin/sections/header.php): failed to open stream: No such file or directory in /home/blinkcoders/public_html/steel-lentils/admin/sections/detail-sections.php on line 2
+[31-Jul-2020 05:51:33 UTC] PHP Warning:  include_once(): Failed opening '/home/blinkcoders/public_html/steel-lentils/admin/sections/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/blinkcoders/public_html/steel-lentils/admin/sections/detail-sections.php on line 2
+[31-Jul-2020 05:51:33 UTC] PHP Warning:  Use of undefined constant ADMIN_DIR - assumed 'ADMIN_DIR' (this will throw an Error in a future version of PHP) in /home/blinkcoders/public_html/steel-lentils/admin/sections/detail-sections.php on line 3
+[31-Jul-2020 05:51:33 UTC] PHP Warning:  include_once(ADMIN_DIR/admin-functions.php): failed to open stream: No such file or directory in /home/blinkcoders/public_html/steel-lentils/admin/sections/detail-sections.php on line 3
+[31-Jul-2020 05:51:33 UTC] PHP Warning:  include_once(): Failed opening 'ADMIN_DIR/admin-functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/blinkcoders/public_html/steel-lentils/admin/sections/detail-sections.php on line 3
+[31-Jul-2020 05:51:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Encryption' not found in /home/blinkcoders/public_html/steel-lentils/admin/sections/detail-sections.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/blinkcoders/public_html/steel-lentils/admin/sections/detail-sections.php on line 6
+[31-Jul-2020 05:51:53 UTC] PHP Warning:  include_once(/home/blinkcoders/public_html/steel-lentils/admin/sections/footer.php): failed to open stream: No such file or directory in /home/blinkcoders/public_html/steel-lentils/admin/sections/detail-sections.php on line 63
+[31-Jul-2020 05:51:53 UTC] PHP Warning:  include_once(): Failed opening '/home/blinkcoders/public_html/steel-lentils/admin/sections/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/blinkcoders/public_html/steel-lentils/admin/sections/detail-sections.php on line 63
+[31-Jul-2020 06:04:36 UTC] PHP Notice:  Undefined variable: PkId2 in /home/blinkcoders/public_html/steel-lentils/admin/sections/list-sections.php on line 82
+[31-Jul-2020 06:05:25 UTC] PHP Notice:  Undefined variable: PkId2 in /home/blinkcoders/public_html/steel-lentils/admin/sections/list-sections.php on line 84
+[31-Jul-2020 06:06:26 UTC] PHP Notice:  Undefined variable: PkId2 in /home/blinkcoders/public_html/steel-lentils/admin/sections/list-sections.php on line 84
+[31-Jul-2020 07:12:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/common_functions.php on line 484
+[31-Jul-2020 07:18:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/common_functions.php on line 484
+[31-Jul-2020 07:18:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/common_functions.php on line 484
+[31-Jul-2020 07:21:04 UTC] PHP Fatal error:  Cannot redeclare get_pagination_search() (previously declared in /home/blinkcoders/public_html/steel-lentils/common_functions.php:454) in /home/blinkcoders/public_html/steel-lentils/common_functions.php on line 559
+[31-Jul-2020 07:21:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/blinkcoders/public_html/steel-lentils/common_functions.php on line 484
+[04-Aug-2020 11:53:40 UTC] PHP Notice:  Undefined index: product_range_name in /home/blinkcoders/public_html/steel-lentils/admin/sections/list-sections.php on line 97
+[04-Aug-2020 11:53:40 UTC] PHP Notice:  Undefined index: product_range_name in /home/blinkcoders/public_html/steel-lentils/admin/sections/list-sections.php on line 97
+[04-Aug-2020 11:57:11 UTC] PHP Notice:  Undefined index: product_range_name in /home/blinkcoders/public_html/steel-lentils/admin/sections/list-sections.php on line 97
+[04-Aug-2020 11:57:21 UTC] PHP Notice:  Undefined index: product_range_name in /home/blinkcoders/public_html/steel-lentils/admin/sections/list-sections.php on line 97
+[04-Aug-2020 11:58:49 UTC] PHP Notice:  Undefined index: product_range_name in /home/blinkcoders/public_html/steel-lentils/admin/sections/list-sections.php on line 97
+[11-Aug-2020 17:22:03 Australia/Sydney] PHP Notice:  Undefined variable: product_range_id in /home/blinkcoders/public_html/steel-lentils/admin/sections/detail-sections.php on line 64
